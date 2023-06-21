@@ -1,3 +1,3 @@
 # ASL-Group4
-pip install mediapipe
-Run main.py
+#step 1: pip install mediapipe
+#step 2: Run main.py
